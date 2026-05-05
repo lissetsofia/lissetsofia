@@ -1,16 +1,109 @@
-## Hi there 👋
+# 👩‍💻 Lisset Sofia | Desarrolladora de Software
 
-<!--
-**lissetsofia/lissetsofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=180&section=header&text=Lisset%20Sofia&fontSize=38&fontColor=ffffff&animation=fadeIn)
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy bachiller en Ingeniería de Sistemas, con experiencia en desarrollo de software de escritorio, soporte TIC y automatización de procesos académicos.
+
+Actualmente desarrollo soluciones orientadas a la gestión de exámenes, generación de cuadernillos, banco de preguntas, corrección lingüística con inteligencia artificial y control de acceso a equipos de cómputo.
+
+Me interesa seguir creciendo profesionalmente en áreas de desarrollo de software, soporte técnico, automatización, bases de datos e inteligencia artificial aplicada.
+
+---
+
+## 🚀 Proyectos destacados
+
+### 📘 EVALUNIA
+Software de escritorio para la generación de cuadernillos de preguntas para exámenes de admisión.
+
+**Tecnologías utilizadas:**
+
+- Electron
+- Python
+- Flask
+- SQLite / MySQL
+- LanguageTool
+- Procesamiento de documentos Word y PDF
+
+**Funciones principales:**
+
+- Importación de exámenes en formato Word.
+- División y organización de preguntas por curso o tema.
+- Aleatorización de alternativas.
+- Generación de cuadernillos.
+- Exportación en Word y PDF.
+- Sugerencias de corrección y adecuación lingüística mediante LanguageTool local.
+
+🔗 Repositorio:  
+[Ver proyecto EVALUNIA](https://github.com/lissetsofia/Software-con-IA-Language-Tool-para-Generar-Cuadernillos-Mediante-Banco-de-Preguntas-de-Ex-menes-)
+
+---
+
+### 💻 AccessLib
+Sistema para gestionar el acceso de usuarios a computadoras de una organización o biblioteca.
+
+**Tecnologías utilizadas:**
+
+- Electron
+- JavaScript
+- Node.js
+- MySQL
+- Aplicación cliente y panel administrador
+
+**Funciones principales:**
+
+- Inicio de sesión de usuarios.
+- Control de sesiones activas.
+- Registro de uso de equipos.
+- Gestión de acceso a computadoras.
+
+🔗 Repositorio:  
+[Ver proyecto AccessLib](https://github.com/lissetsofia/acceslib)
+
+---
+
+## 🛠️ Stack tecnológico
+
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend y escritorio
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Bases de datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Áreas de interés
+
+- Desarrollo de software de escritorio
+- Soporte técnico TIC
+- Automatización de procesos
+- Bases de datos
+- Inteligencia artificial aplicada
+- Procesamiento de documentos Word y PDF
+
+---
+
+## 📫 Contacto
+
+Estoy abierta a oportunidades laborales en desarrollo de software, soporte técnico TIC o automatización de procesos.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](AQUI_PEGA_TU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-lissetsofia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lissetsofia)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer)
