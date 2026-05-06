@@ -2,15 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=180&section=header&text=Lisset%20Sofia&fontSize=38&fontColor=ffffff&animation=fadeIn)
 
-## Sobre mí
 
-Soy bachiller en Ingeniería de Sistemas, con experiencia en desarrollo de software de escritorio, soporte TIC y automatización de procesos académicos.
-
-Actualmente desarrollo soluciones orientadas a la gestión de exámenes, generación de cuadernillos, banco de preguntas, corrección lingüística con inteligencia artificial y control de acceso a equipos de cómputo.
-
-Me interesa seguir creciendo profesionalmente en áreas de desarrollo de software, soporte técnico, automatización, bases de datos e inteligencia artificial aplicada.
-
----
 
 ## 🚀 Proyectos destacados
 
@@ -101,8 +93,8 @@ Sistema para gestionar el acceso de usuarios a computadoras de una organización
 
 Estoy abierta a oportunidades laborales en desarrollo de software, soporte técnico TIC o automatización de procesos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](AQUI_PEGA_TU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-lissetsofia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lissetsofia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisset-sofia-valero-soto-0313962b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFFaX8Oy5S6K%2FgjRTH5PHYA%3D%3D)
+
 
 ---
 
