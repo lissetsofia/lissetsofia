@@ -1,7 +1,7 @@
 # 👩‍💻 Lisset Sofia | Desarrolladora de Software
 
 <p align="center">
-  <img src="banner.png" alt="Banner mapache desarrolladora" width="100%">
+  <img src="banner_mapache.png" alt="Banner mapache desarrolladora" width="100%">
 </p>
 
 ## 🛠️ Stack tecnológico
