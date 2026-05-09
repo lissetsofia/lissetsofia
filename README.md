@@ -171,7 +171,7 @@ Sistema para gestionar el acceso de usuarios a computadoras de una organización
 </p>
 
   <a href="https://www.linkedin.com/in/lisset-sofia-valero-soto-0313962b7/" align="center">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="55" height="55" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="55" height="55" alt="LinkedIn" align="center"/>
   </a>
 
  
