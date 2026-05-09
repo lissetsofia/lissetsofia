@@ -1,6 +1,8 @@
 # 👩‍💻 Lisset Sofia | Desarrolladora de Software
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=180&section=header&text=Lisset%20Sofia&fontSize=38&fontColor=ffffff&animation=fadeIn)
+<p align="center">
+  <img src="banner.png" alt="Banner mapache desarrolladora" width="100%">
+</p>
 
 ## 🛠️ Stack tecnológico
 
