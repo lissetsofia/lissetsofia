@@ -170,18 +170,11 @@ Sistema para gestionar el acceso de usuarios a computadoras de una organización
   Estoy abierta a oportunidades laborales en desarrollo de software, soporte técnico TIC, automatización de procesos e inteligencia artificial aplicada.
 </p>
 
-<p align="center">
-  <a href="mailto:TU_CORREO_AQUI">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="55" height="55" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lisset-sofia-valero-soto-0313962b7/">
     <img src="https://img.icons8.com/color/96/linkedin.png" width="55" height="55" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/lissetsofia">
-    <img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" width="55" height="55" alt="GitHub"/>
-  </a>
+
+ 
 </p>
 ---
 
