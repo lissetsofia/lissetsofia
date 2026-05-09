@@ -2,40 +2,6 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=180&section=header&text=Lisset%20Sofia&fontSize=38&fontColor=ffffff&animation=fadeIn)
 
-
-
-## 🚀 Proyectos destacados
-
-
-
-🔗 Repositorio:  
-[Ver proyecto EVALUNIA](https://github.com/lissetsofia/Software-con-IA-Language-Tool-para-Generar-Cuadernillos-Mediante-Banco-de-Preguntas-de-Ex-menes-)
-
----
-
-### 💻 AccessLib
-Sistema para gestionar el acceso de usuarios a computadoras de una organización o biblioteca.
-
-**Tecnologías utilizadas:**
-
-- Electron
-- JavaScript
-- Node.js
-- MySQL
-- Aplicación cliente y panel administrador
-
-**Funciones principales:**
-
-- Inicio de sesión de usuarios.
-- Control de sesiones activas.
-- Registro de uso de equipos.
-- Gestión de acceso a computadoras.
-
-🔗 Repositorio:  
-[Ver proyecto AccessLib](https://github.com/lissetsofia/acceslib)
-
----
-
 ## 🛠️ Stack tecnológico
 
 ### 💻 Lenguajes de programación
