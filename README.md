@@ -1,4 +1,4 @@
-# 👩‍💻 Lisset Sofia | Desarrolladora de Software
+# 👩‍💻 Desarrolladora de Software
 
 <p align="center">
   <img src="banner_mapache.png" alt="Banner mapache desarrolladora" width="100%">
