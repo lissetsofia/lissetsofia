@@ -166,11 +166,23 @@ Sistema para gestionar el acceso de usuarios a computadoras de una organización
 
 ## 📫 Contacto
 
-Estoy abierta a oportunidades laborales en desarrollo de software, soporte técnico TIC o automatización de procesos.
+<p align="center">
+  Estoy abierta a oportunidades laborales en desarrollo de software, soporte técnico TIC, automatización de procesos e inteligencia artificial aplicada.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisset-sofia-valero-soto-0313962b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFFaX8Oy5S6K%2FgjRTH5PHYA%3D%3D)
-
-
+<p align="center">
+  <a href="mailto:TU_CORREO_AQUI">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="55" height="55" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lisset-sofia-valero-soto-0313962b7/">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="55" height="55" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/lissetsofia">
+    <img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" width="55" height="55" alt="GitHub"/>
+  </a>
+</p>
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer)
